@@ -1,0 +1,11 @@
+{
+    "name": "lalala/lalala",
+    "description": "duong cv dep troai vlin",
+    "authors": [
+        {
+            "name": "duong",
+            "email": "duong@gmail.com"
+        }
+    ],
+    "require": {}
+}
